@@ -1,0 +1,41 @@
+body {
+    font-family: "Papyrus", "Helvetica", sans-serif;
+}
+
+h2 {
+    color: darkolivegreen;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    font-size: 18px;
+}
+
+.heading {
+    font-size: 34px;
+    font-weight: 800;
+    color: darkslategrey;
+}
+
+.recipeListItem {
+    color: darkolivegreen;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.recipeImage {
+    height: auto;
+    width: 300px;
+}
+
+.ingredients {
+    background-color: rgb(196, 214, 196);
+}
+
+.homeButton {
+    font-size: 18px;
+    color: rgb(51, 23, 13);
+}
